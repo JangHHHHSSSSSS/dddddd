@@ -1,0 +1,10 @@
+
+--MemberDao
+SELECT * FROM 
+(
+SELECT * ROW
+(
+
+ORDER BY REGDATE desc
+)A);
+WHERE NUM BETWEEN 11 AND 20;
